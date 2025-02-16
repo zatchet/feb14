@@ -3,7 +3,7 @@ import { Typewriter } from "react-simple-typewriter";
 
 const letter = [
   "",
-  "Dear Person, \n\nThis is a love letter. I wrote it, and you a reading it. I don't know who you are, but I hope you feel loved, I guess. It probably will say stuff about how much I like you. It will probably have some other stuff too. This is the end of the letter.\n\nRegards,\nMe",
+  "Dear Person, \n\nThis is a love letter. I wrote it, and you are reading it. I don't know who you are, but I hope you feel loved, I guess. It probably will say stuff about how much I like you. It will probably have some other stuff too. This is the end of the letter.\n\nRegards,\nMe",
 ];
 const ps = ["", "P.S. press 'c' to hide/show the card."];
 
